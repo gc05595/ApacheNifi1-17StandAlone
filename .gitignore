@@ -1,3 +1,5 @@
+conf/archive/
+*.p12
 
 logs/
 state/
